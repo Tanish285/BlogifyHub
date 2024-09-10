@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/thecodingthunder",
+        "prod_uri":"mysql+pymysql://root:@localhost/thecodingthunder",
+        "fb_url":"https://facebook.com/thecodingthunder",
+        "tw_url":"https://twitter.com/thecodingthunder",
+        "gh_url":"https://github.com/Tanish285",
+        "blog_name":"BlogifyHub",
+        "tagline":"a blog liked by programmers",
+        "about_text": "I'm tanish sharma from Jalandhar,punjab currently entered in my final year ,persuing btech in IT from Indian institute of information technology sonepat (IIITS). I have experience in multiple ml-ai and web dev projects and solved more than 800 dsa problems on sites like leetcode, codeforces, codechef. I have currently rating of 1700 in codechef, 1281 in codeforces and 1890 in leetcode. I have earned the tag of KNIGHT in leetcode solving 440+ dsa questions and given 20+ contests.",
+        "no_of_posts": 2,
+        "login_image":"login.svg",
+        "admin_user":"tanish",
+        "admin_password": "tanishsharma",
+        "upload_location":"C:\\Users\\Tanish Sharma\\Desktop\\BlogifyHub\\uploaded files"
+        
+
+    
+    }
+
+
+}
